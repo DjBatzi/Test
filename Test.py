@@ -1,4 +1,7 @@
 name = "Lukas"
+i=0
 
-if name == "Lukas":
+while i<2:
     print("Lukas ist dumm")
+    name = "Nico"
+    i += 1  
