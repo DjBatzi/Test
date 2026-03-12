@@ -1,7 +1,4 @@
-name = "Lukas"
-i=0
+i = ["Nico", "Lukas", "Bene"]
 
-while i<2:
-    print("Lukas ist dumm")
-    name = "Nico"
-    i += 1  
+if i [0] == "Nico":
+    print(i)
